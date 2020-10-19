@@ -100,7 +100,7 @@ pip install -r requirements.txt
 [<img target="_blank" src="https://matplotlib.org/_static/logo2_compressed.svg" width=170>](https://matplotlib.org)      [<img target="_blank" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width=150>](https://seaborn.pydata.org)      [<img target="_blank" src="https://jupyter.org/assets/nav_logo.svg" width=150>](https://jupyter.org)
 
 ## Team
-[<img src="https://avatars2.githubusercontent.com/u/60285205?s=400&u=45fc55fc21b66ed5ea26153766e3d8e1cc3f4449&v=4" width=120] |
+<img src="https://avatars2.githubusercontent.com/u/60285205?s=400&u=45fc55fc21b66ed5ea26153766e3d8e1cc3f4449&v=4" width=120 |
 -|
 [Debmalya Ghosal](https://github.com/debmalya92) |)
 
