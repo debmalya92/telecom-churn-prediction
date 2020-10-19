@@ -18,8 +18,11 @@ This is a vanilla classification model for a most common dataset, Telecom Churn 
 
 ## Motivation
 In a Telecom industry, customers can choose from multiple service providers and actively switch from one operator to another. In this highly competitive market, the telecommunications industry experiences an average of 15-25% annual churn rate. Given the fact that it costs 5-10 times more to acquire a new customer than to retain an existing one, customer retention has now become even more important than customer acquisition.
-![alt text](https://miro.medium.com/max/1050/1*ajR-SIQzi8Reb6VaL5x2Gg.png) ![alt text](https://miro.medium.com/max/1050/1*A-6PzYAEzHbXejMOoOYYHg.jpeg)
+
+![churn_img 1](https://miro.medium.com/max/1050/1*ajR-SIQzi8Reb6VaL5x2Gg.png) ![churn_img 2](https://miro.medium.com/max/1050/1*A-6PzYAEzHbXejMOoOYYHg.jpeg)
+
 For many incumbent operators, retaining high profitable customers is the number one business goal.
+
 To reduce customer churn, telecom companies need to predict which customers are at high risk of churn.
 
 ## Understanding of Churn
@@ -97,7 +100,7 @@ pip install -r requirements.txt
 [<img target="_blank" src="https://matplotlib.org/_static/logo2_compressed.svg" width=170>](https://matplotlib.org)      [<img target="_blank" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width=150>](https://seaborn.pydata.org)      [<img target="_blank" src="https://jupyter.org/assets/nav_logo.svg" width=150>](https://jupyter.org)
 
 ## Team
-[![Debmalya Ghosal](https://avatars2.githubusercontent.com/u/60285205?s=400&u=45fc55fc21b66ed5ea26153766e3d8e1cc3f4449&v=4)](https://github.com/debmalya92) |
+[<img src="https://avatars2.githubusercontent.com/u/60285205?s=400&u=45fc55fc21b66ed5ea26153766e3d8e1cc3f4449&v=4" width=120] |
 -|
 [Debmalya Ghosal](https://github.com/debmalya92) |)
 
