@@ -19,7 +19,7 @@ This is a vanilla classification model for a most common dataset, Telecom Churn 
 ## Motivation
 In a Telecom industry, customers can choose from multiple service providers and actively switch from one operator to another. In this highly competitive market, the telecommunications industry experiences an average of 15-25% annual churn rate. Given the fact that it costs 5-10 times more to acquire a new customer than to retain an existing one, customer retention has now become even more important than customer acquisition.
 
-<kbd><img src= "https://miro.medium.com/max/300/1*ajR-SIQzi8Reb6VaL5x2Gg.png"></kbd>     <kbd><img src= "https://miro.medium.com/max/300/1*A-6PzYAEzHbXejMOoOYYHg.jpeg"></kbd>
+<kbd><img src= "https://miro.medium.com/max/300/1*ajR-SIQzi8Reb6VaL5x2Gg.png"></kbd>&nbsp;&nbsp;&nbsp;&nbsp;<kbd><img src= "https://miro.medium.com/max/300/1*A-6PzYAEzHbXejMOoOYYHg.jpeg"></kbd>
 
 For many incumbent operators, retaining high profitable customers is the number one business goal.
 
