@@ -19,7 +19,7 @@ This is a vanilla classification model for a most common dataset, Telecom Churn 
 ## Motivation
 In a Telecom industry, customers can choose from multiple service providers and actively switch from one operator to another. In this highly competitive market, the telecommunications industry experiences an average of 15-25% annual churn rate. Given the fact that it costs 5-10 times more to acquire a new customer than to retain an existing one, customer retention has now become even more important than customer acquisition.
 
-![churn_img 1](https://miro.medium.com/max/1050/1*ajR-SIQzi8Reb6VaL5x2Gg.png) ![churn_img 2](https://miro.medium.com/max/1050/1*A-6PzYAEzHbXejMOoOYYHg.jpeg)
+![churn_img 1](https://miro.medium.com/max/400/1*ajR-SIQzi8Reb6VaL5x2Gg.png) ![churn_img 2](https://miro.medium.com/max/400/1*A-6PzYAEzHbXejMOoOYYHg.jpeg)
 
 For many incumbent operators, retaining high profitable customers is the number one business goal.
 
@@ -95,7 +95,7 @@ pip install -r requirements.txt
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
-[<img target="_blank" src="https://numpy.org/images/logos/numpy.svg" width=100>](https://numpy.org)    [<img target="_blank" src="https://pandas.pydata.org/static/img/pandas_white.svg" style="background-color:#17a2b8;" width=150>](https://pandas.pydata.org)    [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=150>](https://scikit-learn.org/stable)   [<img target="_blank" src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-horizontal.svg" width=170>](https://www.statsmodels.org)
+[<img target="_blank" src="https://numpy.org/images/logos/numpy.svg" width=100>](https://numpy.org)    [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/450px-Pandas_logo.svg.png" width=150>](https://pandas.pydata.org)    [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=150>](https://scikit-learn.org/stable)   [<img target="_blank" src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-horizontal.svg" width=170>](https://www.statsmodels.org)
 
 [<img target="_blank" src="https://matplotlib.org/_static/logo2_compressed.svg" width=170>](https://matplotlib.org)      [<img target="_blank" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width=150>](https://seaborn.pydata.org)      [<img target="_blank" src="https://jupyter.org/assets/nav_logo.svg" width=150>](https://jupyter.org)
 
